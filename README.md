@@ -94,7 +94,7 @@ Below is the citation output from using
 check for any updates on how to cite **Bioc2023WorkshopExample**.
 
 ``` r
-print(citation('Bioc2023WorkshopExample'), bibtex = TRUE)
+print(citation("Bioc2023WorkshopExample"), bibtex = TRUE)
 #> To cite package 'Bioc2023WorkshopExample' in publications use:
 #> 
 #>   lcolladotor (2023). _This is an example package_.

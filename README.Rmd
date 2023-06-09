@@ -80,7 +80,7 @@ Below is the citation output from using `citation('Bioc2023WorkshopExample')` in
 run this yourself to check for any updates on how to cite __Bioc2023WorkshopExample__.
 
 ```{r 'citation', eval = requireNamespace('Bioc2023WorkshopExample')}
-print(citation('Bioc2023WorkshopExample'), bibtex = TRUE)
+print(citation("Bioc2023WorkshopExample"), bibtex = TRUE)
 ```
 
 Please note that the `Bioc2023WorkshopExample` was only made possible thanks to many other R and bioinformatics software authors, which are cited either in the vignettes and/or the paper(s) describing this package.
