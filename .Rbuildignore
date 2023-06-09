@@ -1,3 +1,6 @@
 ^Bioc2023WorkshopExample\.Rproj$
 ^\.Rproj\.user$
 ^dev$
+^README\.Rmd$
+^\.github$
+^codecov\.yml$
